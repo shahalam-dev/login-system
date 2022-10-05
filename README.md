@@ -32,7 +32,7 @@ method : POST
 ### Sign-In API End-Point
 
 ```
-[base url]/user/sign-up
+[base url]/user/sign-in
 method : POST
 // Data Structure
 
